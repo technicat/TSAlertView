@@ -1,0 +1,15 @@
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+
+obj/*
+bin/*
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
+
+xcuserdata/
+*.xcuserstate
